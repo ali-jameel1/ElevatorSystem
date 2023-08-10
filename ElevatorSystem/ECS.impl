@@ -1,0 +1,4 @@
+#ifndef ECS_IMPL
+#define ECS_IMPL
+
+#endif // ECS_IMPL
